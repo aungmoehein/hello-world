@@ -1,3 +1,2 @@
 # hello-world
-first repository
-created third
+Third repository
